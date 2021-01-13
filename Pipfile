@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+requests = "*"
+pandas = "*"
+bs4 = "*"
+jupyter = "*"
+xlrd = "*"
+jieba = "*"
+matplotlib = "*"
+wordcloud = "*"
+sklearn = "*"
+statsmodels = "*"
+tqdm = "*"
+
+[requires]
+python_version = "3.7"
